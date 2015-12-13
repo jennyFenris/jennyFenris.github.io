@@ -1,0 +1,26 @@
+<style>
+	body {
+    font-family: "Arial";
+    color: #0000ff;
+    padding: 0 20%;
+}
+
+p{
+	color: 0000ff
+}
+
+li input {
+    display: none;
+}
+
+li.edit span {
+    display: none;
+}
+
+li.edit input {
+    display: initial;
+}
+	
+	
+	</style>
+	
